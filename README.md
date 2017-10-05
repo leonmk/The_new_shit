@@ -5,3 +5,7 @@
 ### vi tjekker hvad der sker hvis vi laver 3 af dem.
 
 + og så skal vi også have nogle pludser.
+
+++ så prøver vi 2 pludser af
+
++ men hvordan får jeg den så pushed igen?
