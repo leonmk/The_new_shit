@@ -4,7 +4,7 @@
 
 ### vi tjekker hvad der sker hvis vi laver 3 af dem.
 
-+ og så skal vi også have nogle pludser., men det her var det bedste pluds for det virkede......
++ og så skal vi også have nogle store fede dejlige saftige meloner
 
 ++ så prøver vi 2 pludser af
 
